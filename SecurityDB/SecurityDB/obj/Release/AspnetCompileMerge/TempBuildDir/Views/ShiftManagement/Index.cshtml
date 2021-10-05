@@ -1,0 +1,123 @@
+﻿@model IEnumerable<SecurityDB.Models.Shift>
+
+@{
+    ViewBag.Title = "Shift Management";
+}
+
+<h2 style="color:darkslategray;">Shift Management</h2>
+<br />
+@using (Html.BeginForm("Search", "ShiftManagement", FormMethod.Get))
+{
+    <div class="input-group">
+        <!-- declaration for first field -->
+        <input type="text" class="form-control datetimepicker1" id="DateFrom" name="datefrom"
+               placeholder="Date From" />
+        <!-- reducong the gap between them to zero -->
+        <span class="input-group-btn"
+              style="width:5px;"></span>
+        <!-- declaration for second field -->
+        <input type="text" class="form-control datetimepicker1" id="DateEnd" name="dateend"
+               placeholder="Date End" />
+    </div>
+
+    <br />
+
+    <div class="input-group">
+        <input type="text" class="form-control" id="Search" name="search"
+               placeholder="Enter Name" />
+        <span class="input-group-btn"
+              style="width:5px;"></span>
+        <input type="submit" value="Search" class="form-control btn btn-success" />
+        <span class="input-group-btn"
+              style="width:5px;"></span>
+        @Html.ActionLink("Refresh", "Refresh", null, new { @class = "form-control btn btn-warning" })
+    </div>
+    
+
+    <div class="form-group">
+        <h5 style="color:red;"><strong>@ViewBag.HoursMinutes</strong></h5>
+    </div>
+
+    <br />
+}
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Site.SiteName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FromDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hoursno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MinutesNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsApproved)
+        </th>
+        <th>Action</th>
+    </tr>
+
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Site.SiteName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FromDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hoursno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinutesNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsApproved)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new
+                    {
+                        onclick =
+                                    "return confirm('Are you sure to delete!')"
+                    })
+                </td>
+            </tr>
+        }
+    }
+
+</table>

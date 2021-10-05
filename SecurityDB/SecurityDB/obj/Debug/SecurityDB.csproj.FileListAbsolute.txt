@@ -1,0 +1,276 @@
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.pdb
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.rsp
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.rsp
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.AppContext.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Console.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Http.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.rsp
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\WebGrease.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.pdb
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.InitialModel.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateshift.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.UpdatingUsertable.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateusertable.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.UpdatingShifttablefuther.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.GenerateResource.cache
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CoreCompileInputs.cache
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CopyComplete
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.dll
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.pdb
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csprojAssemblyReference.cache
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateusertable1.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.addingcodetoUsertable.resources
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updatingusertableagain.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll.config
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.pdb
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe.config
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.rsp
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe.config
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.rsp
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.AppContext.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Console.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Http.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe.config
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.rsp
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\WebGrease.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.pdb
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csprojAssemblyReference.cache
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.InitialModel.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateshift.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.UpdatingUsertable.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateusertable.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.UpdatingShifttablefuther.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateusertable1.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.addingcodetoUsertable.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updatingusertableagain.resources
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.GenerateResource.cache
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CoreCompileInputs.cache
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CopyComplete
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.dll
+C:\Users\Stariq\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.pdb
+C:\Users\Stariq\Desktop\Code\Personal Development\Web APP\ASP.Net MVC\CodeFirst\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.updateusertable2.resources
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll.config
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\SecurityDB.pdb
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.exe.config
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csc.rsp
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.exe.config
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\csi.rsp
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.AppContext.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Console.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Http.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.ValueTuple.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.exe.config
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\vbc.rsp
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\WebGrease.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\EntityFramework.SqlServer.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Data.SqlClient.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Helpers.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Mvc.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Optimization.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.Razor.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Newtonsoft.Json.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Antlr3.Runtime.pdb
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.Migrations.InitialCatalogue.resources
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.GenerateResource.cache
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.csproj.CopyComplete
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.dll
+C:\Users\salma\OneDrive\Desktop\SecurityCodeFirst\SecurityDB\SecurityDB\obj\Debug\SecurityDB.pdb

@@ -1,0 +1,85 @@
+﻿@model SecurityDB.ModelView.ShiftModelView
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 style="color:darkslategray;">Create</h2>
+
+
+@using (Html.BeginForm("Create", "Shift"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.FromDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.Shifts.FromDate, new { htmlAttributes = new { @class = "form-control datetimepicker1" } })*@
+                @Html.TextBoxFor(model => model.Shifts.FromDate, "{0:yyyy-MM-dd HH:mm:ss}", new { @class = "form-control datetimepicker1" })
+                @Html.ValidationMessageFor(model => model.Shifts.FromDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.Shifts.EndDate, new { htmlAttributes = new { @class = "form-control datetimepicker1" } })*@
+                @Html.TextBoxFor(model => model.Shifts.EndDate, "{0:yyyy-MM-dd HH:mm:ss}", new { @class = "form-control datetimepicker1" })
+                @Html.ValidationMessageFor(model => model.Shifts.EndDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.Hoursno, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Shifts.Hoursno, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Shifts.Hoursno, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.MinutesNo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Shifts.MinutesNo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Shifts.MinutesNo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.Site.SiteName, "Site Name", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Shifts.SiteId, new SelectList(Model.Sites, "Id", "SiteName"), "Select Site", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Shifts.SiteId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Shifts.Desc, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Shifts.Desc, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Shifts.Desc, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @Html.HiddenFor(sh => sh.Shifts.Id)
+                <input type="submit" value="Save Shift" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

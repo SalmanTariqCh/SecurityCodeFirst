@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - BGN Security Web Application</title>
+
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+    @*<script src="~/Scripts/modernizr-2.8.3.js"></script>*@
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="container">
+        <div class="navbar navbar-inverse ">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+                <p class="site-title"><a runat="server" href="http://www.bgnsecurity.co.uk/"><img width="50" height="42" src="~/Content/bgn-logo.png" alt="" /></a></p>
+            </div>
+            <div class="navbar-collapse collapse">
+                @*<ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+            <li>@Html.ActionLink("About", "About", "Home")</li>
+            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+        </ul>*@
+                <style>
+                    .navbar-inverse .navbar-nav > li > a {
+                        color: white !important;
+                    }
+
+                        .navbar-inverse .navbar-nav > li > a:hover,
+                        .navbar-inverse .navbar-nav > li > a:focus {
+                            color: red !important;
+                            background-color: #ebca19 !important;
+                        }
+                </style>
+                <ul class="nav navbar-nav">
+                    @if (Session["UserName"] != null)
+                    {
+                        if ((int)Session["Code"] == 3344)
+                        {
+                            <li>@Html.ActionLink("User Details", "Index", "UserDetails")</li>
+                            <li>@Html.ActionLink("Shift", "Index", "Shift")</li>
+                        }
+                        else
+                        {
+                            <li>@Html.ActionLink("User Details", "Index", "UserDetails")</li>
+                            <li>@Html.ActionLink("Site", "Index", "Site")</li>
+                            <li>@Html.ActionLink("Shift", "Index", "Shift")</li>
+                            <li>@Html.ActionLink("Shift Management", "Index", "ShiftManagement")</li>
+                            <li>@Html.ActionLink("Users Listing", "Index", "AllUsers")</li>
+                        }
+                    }
+                </ul>
+                @if (Session["UserName"] != null)
+                {
+                    string uname = Session["UserName"].ToString();
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>@Html.ActionLink(uname, "Index", "UserDetails")</li>
+                        <li>@Html.ActionLink("Logout", "Logout", "Home")</li>
+                    </ul>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - BGN Security Web Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-3.6.0.min.js"></script>
+    <script src="~/Scripts/moment.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap-datetimepicker.min.js"></script>
+    <script src="~/Scripts/CustomScript.js"></script>
+
+</body>
+</html>

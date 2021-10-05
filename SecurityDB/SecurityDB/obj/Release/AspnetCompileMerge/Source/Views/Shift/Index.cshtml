@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SecurityDB.Models.Shift>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:darkslategray;">Shift Listing</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FromDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hoursno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MinutesNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Site.SiteName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desc)
+        </th>
+        <th>Action</th>
+    </tr>
+
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FromDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hoursno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinutesNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Site.SiteName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desc)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new
+                    {
+                        onclick =
+                                    "return confirm('Are you sure to delete!')"
+                    })
+                </td>
+            </tr>
+        }
+    }
+
+</table>
